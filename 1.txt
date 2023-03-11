@@ -11,5 +11,3 @@ Steps to Reproduce
 Result
 Expected Result
 Attachment
-
-For Bug report
